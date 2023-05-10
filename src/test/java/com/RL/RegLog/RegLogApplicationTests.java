@@ -1,0 +1,13 @@
+package com.RL.RegLog;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RegLogApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
